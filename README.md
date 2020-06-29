@@ -1,6 +1,6 @@
 # EmergencyVehicleDetector
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/evilc3/EmergencyVehicleDetector/blob/master/Emgen.jpg)
 
 Download The data from:
 https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#ProblemStatement
