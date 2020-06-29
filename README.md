@@ -1,5 +1,7 @@
 # EmergencyVehicleDetector
 
+![alt text](http://url/to/img.png)
+
 Download The data from:
 https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#ProblemStatement
 
