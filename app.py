@@ -33,7 +33,7 @@ transform = transforms.Compose([transforms.ToTensor(),
 
 #loading the model
 loaded_densenet169 = Densenet169()
-loaded_densenet169.load_state_dict(torch.load('../models/densenet169.pt',map_location=torch.device('cpu')))
+loaded_densenet169.load_state_dict(torch.load('models/densenet169.pt',map_location=torch.device('cpu')))
 loaded_densenet169.eval()
 
 st.text('model loaded using densenet169')
