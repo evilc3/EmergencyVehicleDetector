@@ -1,4 +1,4 @@
-numpy==1.16.4
+numpy==1.22.0
 streamlit==0.57.3
 torch==1.5.0
 torchvision==0.6.0
